@@ -1,16 +1,74 @@
-# React + Vite
+Hoop Club – Modern Community Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A production-deployed React application built with Vite, designed to simulate a real-world club/community platform. The project emphasizes clean component architecture, responsive UI design, and modern frontend development practices.
 
-Currently, two official plugins are available:
+Live Demo: https://hoop-club-website.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
 
-## React Compiler
+Responsive design using Tailwind CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Modular and reusable React components
 
-## Expanding the ESLint configuration
+Structured and scalable project architecture
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Optimized production build with Vite
+
+Deployed to a live production environment via Vercel
+
+Tech Stack
+
+Frontend:
+
+  React
+
+  Vite
+
+  Tailwind CSS
+
+Deployment:
+
+  Vercel
+  
+Getting Started
+
+Clone the repository:
+
+  git clone https://github.com/sPreetham42/Hoop-club-website.git
+  cd Hoop-club-website
+
+Install dependencies:
+
+  npm install
+
+Run development server:
+
+  npm run dev
+
+Build for production:
+
+  npm run build
+
+Key Concepts Demonstrated
+
+  Component-based architecture
+
+  Responsive layout implementation
+
+  Modern frontend tooling with Vite
+
+  Clean project structure and maintainability
+
+  End-to-end deployment workflow
+
+Future Improvements
+
+  Authentication system
+
+  Backend API integration
+
+  Database support
+
+  Role-based access control
+
+  Automated testing
